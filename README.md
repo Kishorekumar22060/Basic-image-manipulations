@@ -103,7 +103,7 @@ cv2.imwrite('apollo.png', image)
 <img width="652" alt="Screenshot 2024-10-29 at 11 57 20 AM" src="https://github.com/user-attachments/assets/b98cd71a-50e5-4f67-87ff-8a71bcf00ce8">
 
 
-# 3
+# 4
 
 ### Reading the Image: Reads 'Apollo-11-launch.jpg' in color.
 ### Adding Text: Places the text "Apollo 11 Saturn V Launch, July 16, 1969" at the bottom center of the image.
